@@ -97,15 +97,13 @@ Reviewer-Recommendation-System/
 ├── data/
 │   ├── author_profiles.pkl   # Preprocessed author profile data
 │   └── metadata.json         # Metadata about authors and papers
-└── assets/
-    └── logo.png              # Optional app logo
 ```
 
 ***
 
 ## Configuration
 
-If you already built your model in Google Colab:
+I have built the model in Google Colab:
 1. Save the `author_profiles.pkl` and `metadata.json` files to the `data/` folder.
 2. Edit the path in `app.py` (default: `data/author_profiles.pkl`).
 3. Restart the Streamlit app.
