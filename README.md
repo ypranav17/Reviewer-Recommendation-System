@@ -56,11 +56,6 @@ conda create -n reviewer-env python=3.10 -y
 conda activate reviewer-env
 ```
 
-**or using venv (regular Python environment):**
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
 
 ***
 
