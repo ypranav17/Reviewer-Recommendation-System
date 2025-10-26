@@ -6,3 +6,4 @@ pandas==2.0.3
 numpy==1.24.3
 plotly==5.17.0
 torch==2.0.0
+matplotlib
